@@ -1,2 +1,1 @@
-My first readme
-git config --global user.email "dougthesoul 25@gmail.com" 
+another readme for 0x01-git
